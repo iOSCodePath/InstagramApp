@@ -1,6 +1,6 @@
 ===
 
-# APP_NAME_HERE
+# Instagram Clone App
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -10,16 +10,16 @@
 
 ## Overview
 ### Description
-[Description of your app]
+Instagram clone application 
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:**  Social 
+- **Mobile:** Camera, location, audio, sensors, push, real-time.
+- **Story:** Users can create and share their creations/ideas/lives with friends and family through videos, photos and live stories. 
+- **Market:** Female/Male - 12yrs+ 
+- **Habit:** Creative application - User has tools to create content. Average user uses app 2-3 hours/day. 
+- **Scope:** Basic functionalities then build optional stories. 
 
 ## Product Spec
 
@@ -34,11 +34,20 @@
 * User should get appropriate validation error messages when tries to login with incorrect credentials.
 * User can like, comment the posts of other friends.
 * User can message friends and comment on the statuses.
+* User can upload a video as a post.
+* User can follow other people/pages.
 * User can post a story to Instagram.
+* User can save posts.
+* User can view their save posts and liked posts. 
+* User can put a location to their photos/videos. 
 
 **Optional Nice-to-have Stories**
 
 * User can add boomerang using instagram.
+* User can use the instagram live feature. 
+* User can send voice messages. 
+* User can send photos/videos through private messaging. 
+
 
 ### 2. Screen Archetypes
 
