@@ -27,13 +27,18 @@
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User should be able to login to Instagram App successfullyly.
+* User should be able to see the timeline with latest posts.
+* User should be able to post a new picture to instagram.
+* User should be able to sign up for Instagram and then login successfully.
+* User should get appropriate validation error messages when tries to login with incorrect credentials.
+* User can like, comment the posts of other friends.
+* User can message friends and comment on the statuses.
+* User can post a story to Instagram.
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User can add boomerang using instagram.
 
 ### 2. Screen Archetypes
 
