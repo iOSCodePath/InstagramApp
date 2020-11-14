@@ -13,7 +13,6 @@
 Instagram clone application 
 
 ### App Evaluation
-[Evaluation of your app across the following attributes]
 - **Category:**  Social 
 - **Mobile:** Camera, location, audio, sensors, push, real-time.
 - **Story:** Users can create and share their creations/ideas/lives with friends and family through videos, photos and live stories. 
@@ -76,12 +75,7 @@ Instagram clone application
    * ...
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
 
 ## Schema 
 [This section will be completed in Unit 9]
