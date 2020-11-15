@@ -75,7 +75,7 @@ Instagram clone application
    * ...
 
 ## Wireframes
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="img/ios.jpg" width=600>
 
 ## Schema 
 [This section will be completed in Unit 9]
