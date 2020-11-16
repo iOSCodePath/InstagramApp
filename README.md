@@ -26,7 +26,7 @@ Instagram clone application
 
 **Required Must-have Stories**
 
-* User should be able to login to Instagram App successfullyly.
+* User should be able to login to Instagram App successfully.
 * User should be able to see the timeline with latest posts.
 * User should be able to post a new picture to instagram.
 * User should be able to sign up for Instagram and then login successfully.
@@ -42,6 +42,7 @@ Instagram clone application
 
 **Optional Nice-to-have Stories**
 
+* User should be able to reset or, change their password.
 * User can add boomerang using instagram.
 * User can use the instagram live feature. 
 * User can send voice messages. 
@@ -50,29 +51,59 @@ Instagram clone application
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
-
+* Login Screen
+   * User can login from this screen
+   * User can also make a segue to Registration screen from here incase the user is not registered.
+   * User can also request for a reset password request from this screen
+* Registration Screen
+   * User can create a their new account from this screen
+* Posting Content
+   * User can create their multimedia content from this screen
+* Streaming Content
+   * User can stream content
+* Live feed
+   * The User can scroll through the interactive feed and like, comment and share from this screen. 
+   * The user can also revert back any action from this screen
+* Search User/Content
+   * User can search for any other user or, content
+* Live Communication
+   * User can establish live communication with other users via text, voice or, video format
+   * User can send and recieve pre-recorded media via this screen
+   
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Home Feed
+* Search User
+* Post Photo/Video
+* Direct Message
+* Stream Video 
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* Login Screen
+   * => Home Feed
+   * => Registration screen
+   * => Reset/Forgot Password screen
+* Registration Screen
+   * => Confirmation Screen
+   * => Home Feed
+* Reset/Forgot Password Screen
+   * => Confirmation Screen
+   * => Home Feed
+* Creation Screen
+   * => Home Feed
+   * => Few different screen depending on the creation level
+* Stream Screen
+   * => Back to Home/ Some other actions.
+* Search screen
+   * => The search feed
+   * => The searched users public timeline 
+* Direct message
+   * => Home feed
+ 
+
 
 ## Wireframes
 <img src="img/ios.jpg" width=600>
